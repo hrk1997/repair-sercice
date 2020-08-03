@@ -1,0 +1,20 @@
+body{
+    background-color: #252627;
+    color:rgb(247, 52, 3);
+    font-family: monospace;
+}
+a{
+    color: rgb(247, 52, 3);
+    text-decoration-color: #252627;
+}
+a:hover{
+    color: rgba(219, 199, 13, 0.945);
+}
+.pic-dp{
+    border: 1px solid #e1e4e8;
+    border-bottom: 0;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
